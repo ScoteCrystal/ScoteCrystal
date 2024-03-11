@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ScoteCrystal
+- Just a student looking to learn
+- Currently studying CPP and Python
+- Looking to know more about AI
+- Have fun!
